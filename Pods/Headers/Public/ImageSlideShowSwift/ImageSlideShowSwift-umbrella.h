@@ -1,0 +1,1 @@
+../../../Target Support Files/ImageSlideShowSwift/ImageSlideShowSwift-umbrella.h

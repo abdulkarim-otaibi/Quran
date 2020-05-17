@@ -1,0 +1,20 @@
+PODS:
+  - ImageSlideShowSwift (0.1.8)
+  - JESideMenuController (1.0.0)
+
+DEPENDENCIES:
+  - ImageSlideShowSwift
+  - JESideMenuController (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - ImageSlideShowSwift
+    - JESideMenuController
+
+SPEC CHECKSUMS:
+  ImageSlideShowSwift: 0d3463bf19c3b4529cd7d5a42263209773d65a37
+  JESideMenuController: f9713d45f001209f953083709b4d58786a1748ec
+
+PODFILE CHECKSUM: d656dfaa4c540ac0405751aa449927bec0a12444
+
+COCOAPODS: 1.8.4

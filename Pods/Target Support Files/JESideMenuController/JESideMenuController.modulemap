@@ -1,0 +1,6 @@
+module JESideMenuController {
+  umbrella header "JESideMenuController-umbrella.h"
+
+  export *
+  module * { export * }
+}
